@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Moeed Irfan</h1>
 
+<h3 align="center">Software Engineer |  Flutter Developer | Machine Learning Enthusiastic </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmoeedirfan&label=Profile%20views&color=0e75b6&style=flat" alt="hmoeedirfan" /> </p>
+
 
 * 👩‍💻 I'm a mobile developer who enjoy using Flutter to build apps.
 
