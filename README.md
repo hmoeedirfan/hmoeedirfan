@@ -3,7 +3,7 @@
 
 <img align="right" alt= "coding" width=400 src="https://user-images.githubusercontent.com/99192107/195681158-bb86e513-d57d-4dec-9a0c-5bfa6aa69cb2.jpg">
 
-<h1 align="center">Hi 👋, I'm Moeed Irfan</h1>
+<h1 align="left">Hi 👋, I'm Moeed Irfan</h1>
 
 <!-- <h3 align="center">A self-taught programmer exploring and learning new things along the way😜</h3> -->
 
