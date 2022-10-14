@@ -4,17 +4,14 @@
 
 <h3 align="center">Software Engineer |  Flutter Developer | Machine Learning Enthusiastic </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmoeedirfan&label=Profile%20views&color=0e75b6&style=flat" alt="hmoeedirfan" /> </p>
+<br /> 
 
-
-* 👩‍💻 I'm a mobile developer who enjoy using Flutter to build apps.
-
+* 💻 I'm a mobile developer who enjoy using Flutter to build apps.
 * 🧠 I'm currently learning DS and Algo... 😭
-
 * 💬 Ask me about Flutter, Dart, Python
-
 * 📫 How to reach me moeedirfan10@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmoeedirfan&label=Profile%20views&color=0e75b6&style=flat" alt="hmoeedirfan" /> </p>
 
 ### Socials
 
