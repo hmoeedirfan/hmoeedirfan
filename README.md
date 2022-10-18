@@ -1,5 +1,6 @@
+<!--
 ![Untitled design](https://user-images.githubusercontent.com/99192107/195695603-554202cc-cd76-415a-a9aa-7e2cb7719a77.png)
-
+-->
 <h1 align="center">Hi 👋, I'm Moeed Irfan</h1>
 
 <h3 align="center">Software Engineer |  Flutter Developer | Machine Learning Enthusiastic </h3>
