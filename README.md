@@ -3,7 +3,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Moeed Irfan</h1>
 
-<h3 align="center">Software Engineer |  Flutter Developer | Machine Learning Enthusiastic </h3>
+<h3 align="center">I am building apps in Flutter, exploring emerging technologies(Blockchain, AI, Web 3.0) </h3>
 
 <br /> 
 
