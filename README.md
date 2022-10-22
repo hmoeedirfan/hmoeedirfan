@@ -5,14 +5,16 @@
 
 <h3 align="center">I am building apps in Flutter, exploring emerging technologies(Blockchain, AI, Web 3.0) </h3>
 
-<br /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmoeedirfan&label=Profile%20views&color=0e75b6&style=flat" alt="hmoeedirfan" /> </p>
 
 * 💻 I'm a mobile developer who enjoy using Flutter to build apps.
+
 * 🧠 I'm currently learning DS and Algo... 😭
+
 * 💬 Ask me about Flutter, Dart, Python
+
 * 📫 How to reach me moeedirfan10@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmoeedirfan&label=Profile%20views&color=0e75b6&style=flat" alt="hmoeedirfan" /> </p>
 
 ### Socials
 
