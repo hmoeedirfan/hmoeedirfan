@@ -5,7 +5,6 @@
 
 <h3> I'm 16, Self-Taught Developer, and a Blockchain Enthusiast🚀</h3>
 
-</br>
 
 * 🧠 I'm currently learning DS and Algo... 😭
 * 💬 Ask me about Flutter, Dart, Python
