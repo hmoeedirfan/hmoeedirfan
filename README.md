@@ -1,12 +1,15 @@
 <!--
 ![Untitled design](https://user-images.githubusercontent.com/99192107/195695603-554202cc-cd76-415a-a9aa-7e2cb7719a77.png)
 -->
-# Hi 👋 I'm Moeed Irfan
+Hi 👋 I'm Moeed Irfan
+=================================================================================================================================
 
-<h3> I'm 16, Self-Taught Developer, and a Blockchain Enthusiast🚀</h3>
+I'm 16, Self-Taught Developer, and a Blockchain Enthusiast🚀
+--------------------------------------------
 
-
-* 🧠 I'm currently learning DS and Algo... 😭
+* 🌍 I'm based in Pakistan
+* 🧠 I'm learning and exploring Web3, Blockchain
+* 🤝 I'm open to collaborating on interesting projects
 * 💬 Ask me about Flutter, Dart, Python
 * 📫 How to reach [me](https://moeedirfan.bio.link/)  
 
