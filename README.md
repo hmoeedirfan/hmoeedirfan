@@ -7,7 +7,7 @@ Hi 👋 I'm Moeed Irfan
 I'm 16, Self-Taught Developer, and a Blockchain Enthusiast🚀
 --------------------------------------------
 
-* 🌍 I'm based in Pakistan
+* 🌍 I'm based in the world
 * 🧠 I'm building apps in Flutter along with learning and exploring Web3, Blockchain
 * 🤝 I'm open to collaborating on interesting projects
 * 💬 Ask me about Flutter, Dart, Python
