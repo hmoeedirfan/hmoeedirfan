@@ -1,8 +1,8 @@
 # Hey there👋
 
-<p> I'm Moeed Irfan - I'm a Flutter developer with a passion for crafting mobile applications that seamlessly bridge the gap between iOS and Android platforms.</p>
+<p> I'm Moeed Irfan, an enthusiastic beginner in Flutter development, striving to create user-friendly mobile apps for both iOS and Android. Let's connect and explore the exciting world of mobile app development together!
+</p>
 
-Enthusiastic 
 
 ## 💻 Tech Stack:
 <a href="#">
