@@ -1,6 +1,8 @@
 # Hey there👋
 
-<p> I'm Moeed Irfan - I'm a Full Stack Developer, currently developing Software & apps with Flutter having interest in exploring emerging technologies like AI, Blockchain, Cloud Computing.</p>
+<p> I'm Moeed Irfan - I'm a Flutter developer with a passion for crafting mobile applications that seamlessly bridge the gap between iOS and Android platforms.</p>
+
+Enthusiastic 
 
 ## 💻 Tech Stack:
 <a href="#">
